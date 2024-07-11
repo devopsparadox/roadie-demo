@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: roadie-demo
-  description: The place to be, for great artists
+  description: Some description
   annotations:
     github.com/project-slug: devopsparadox/roadie-demo
     backstage.io/techdocs-ref: dir:. 
