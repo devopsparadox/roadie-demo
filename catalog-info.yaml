@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-web
+  name: roadie-demo
   description: The place to be, for great artists
   annotations:
-    github.com/project-slug: roadie-demo/artist-web
+    github.com/project-slug: devopsparadox/roadie-demo
     backstage.io/techdocs-ref: dir:. 
 spec:
   type: website
