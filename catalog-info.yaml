@@ -9,10 +9,10 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: artist-relations-team
-  system: artist-engagement-portal
+  owner: vfarcic
+  system: DevOpsCatalog
   dependsOn:
-    - resource:default/artists-db
+    - resource:default/something-db
   providesApis:
-    - artist-api
+    - something-api
 
